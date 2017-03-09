@@ -1578,24 +1578,13 @@
 		color: #888;
 	}
 
-	h1, h2, h3, h4, h5 {
+	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		color: #666;
 		line-height: 1.5em;
 	}
 
-	h1 a, h2 a, h3 a, h4 a, h5 a {
-		color: inherit;
-		text-decoration: none;
-	}
-
-	h6 {
-		font-weight: 250;
-		color: #666;
-		line-height: 1.2em;
-	}
-
-	h6 a {
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		color: inherit;
 		text-decoration: none;
 	}
